@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="30dp"
+    android:paddingBottom="30dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:background="#ccc"
+    android:alpha="0.5">
+
+    <ImageView
+        android:id="@+id/start"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_start_run"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_add_floating_window"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:id="@+id/remove"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_remove"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:id="@+id/close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/ic_close_run"/>
+
+</LinearLayout>

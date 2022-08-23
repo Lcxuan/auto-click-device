@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoClickDevice</string>
+    <string name="accessibility_service_label">AutoClickDevice</string>
+    <string name="accessibility_service_description">AutoClickDevice</string>
+</resources>
